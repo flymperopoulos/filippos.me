@@ -1317,6 +1317,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  opacity: 0.4;
 }
 @media (min-width: 768px) {
   .container {
